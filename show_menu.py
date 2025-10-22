@@ -1,4 +1,3 @@
-
 def show_menu_01():
     print()
     print("Welcome to the Mastermind Game!")

@@ -1,4 +1,3 @@
-
 def user_username_test(prompt):
     while True:
         try:
