@@ -1,0 +1,6 @@
+def generate_random_username(length: int = 6) -> str:
+    letters = ''.join(random.choices(string.ascii_lowercase, k=3))
+    numbers = ''.join(random.choices(string.digits, k=3))
+    return letters + numbers
+
+
