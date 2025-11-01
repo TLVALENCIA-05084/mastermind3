@@ -1,2 +1,2 @@
 # mastermind3
-mastermindprojectgrp3
+mastermindprojectgroup3
